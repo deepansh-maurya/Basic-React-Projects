@@ -1,0 +1,17 @@
+.borderlaga{
+    /* border: 1px solid red; */
+    width: 10%;
+}
+.centerkar{
+    display: flex;
+    justify-content: center;
+}
+.forbutton {
+    display: flex;
+    justify-content: center;
+}   
+.atcenter{
+    display: flex;
+    justify-content: center;
+    margin:auto;
+}
